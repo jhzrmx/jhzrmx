@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![jhzrmx](res/jhz-rmx-glitch.gif)
+<img src="res/jhz-rmx-glitch.gif" width=100>
 
 <!--
 **jhzrmx/jhzrmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
