@@ -1,7 +1,6 @@
 # Hi there 👋
 
 <img src="res/jhz-rmx-glitch.gif" width="100%">
-<hr />
 
 ## My Stats
 
