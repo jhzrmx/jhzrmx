@@ -2,6 +2,7 @@
 
 <img src="res/jhz-rmx-glitch.gif" width="100%">
 <hr />
+
 ## My Stats
 
 <div align="center">
