@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!img src="res/jhz-rmx-glitch.gif" width="100%">
+<img src="res/jhz-rmx-glitch.gif" width="100%">
 
 <div align="center">
       <img align="left" height="170px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhzrmx&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight"/>
